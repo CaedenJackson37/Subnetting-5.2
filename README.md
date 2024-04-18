@@ -1,4 +1,4 @@
-<h1>JSubnetting 5.2</h1>
+<h1>Subnetting 5.2</h1>
 
 <h2>Description</h2>
 Project consists of me practicing and learning how to subnet a large network into smaller networks that are connected to eachother. I also was learning how to add VLANs to allow those networks to communicate with eachother. 
